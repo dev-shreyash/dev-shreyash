@@ -16,4 +16,4 @@ Passionate Computer Science student with a knack for mastering various programmi
 
 ## Contact
 - LinkedIn: [Shreyash Bhosale](https://www.linkedin.com/in/bhosaleshreyash2)
-- GitHub: [shreyashbhosale](https://github.com/dev-shreyash)
+- GitHub: [dev-shreyash bhosale](https://github.com/dev-shreyash)
