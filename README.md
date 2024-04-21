@@ -5,14 +5,14 @@ Passionate Computer Science student with a knack for mastering various programmi
 
 ## 📦 Toolbox
 
-**Frontend Development:** `JavaScript` `TypeScript` `React` `Zustand` `NextJS` `TailwindCSS` `BootStrap` `ShadCN UI`
+**Frontend Development:** `JavaScript` `TypeScript` `React` `NextJS` `TailwindCSS` `BootStrap` `ShadCN UI` `HTML?CSS`
  
 **Version Control:** `Git` `Github`
 
 **Backend Development:** `NodeJS` `Express` `MongoDB` `Firebase` 
 
-**Skills**
-- `JavaScript`
+**Languages**
+- `JavaScript/Typescript`
 - `Python`
 - `Java`
 - `C`
