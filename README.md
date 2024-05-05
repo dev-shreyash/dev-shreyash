@@ -1,4 +1,4 @@
-# Hey, I'm Shreyash 👋 
+# Hey, I'm <Shreyash/> 👋 
 
 ## About Me
 Passionate Computer Science student with a knack for mastering various programming languages including JavaScript, Python, Java, and C. Aspiring Full Stack Web Developer specializing in crafting seamless user experiences. Proficient in creating dynamic web applications from scratch, leveraging technologies like React.js, Node.js, and Next.js. Experienced in developing industry-standard backend projects and deploying web apps on internet servers. Continuously seeking new challenges and opportunities to enhance my skills and contribute to innovative projects.
