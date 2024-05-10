@@ -34,6 +34,5 @@ Passionate Computer Science student with a knack for mastering various programmi
 - LinkedIn: [Shreyash Bhosale](https://www.linkedin.com/in/bhosaleshreyash2)
 - GitHub: [dev-shreyash bhosale](https://github.com/dev-shreyash)
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=dev-shreyash&show_icons=true&locale=en" alt="dev-shreyash" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=dev-shreyash&" alt="dev-shreyash" /></p>
