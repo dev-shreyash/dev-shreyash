@@ -19,7 +19,7 @@
 
 ## About Me
 
-<img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
+<img align="right" alt="Coding" width="400" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExZmp1amMzbXNrdWVrYWltc2drajNjMTgwNGczNDhvOHVpaDlxY3hkaSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/boYxZ1fa72kcgr70sN/giphy.gif">
 
 ```javascript
 const shreyash = {
