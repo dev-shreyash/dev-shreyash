@@ -1,6 +1,6 @@
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Shreyash%20Bhosale&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=020024,090979,00d4ff&height=180&section=header&text=Shreyash%20Bhosale&fontSize=42&fontColor=4dfbff&animation=twinkling&fontAlignY=32"/>
 </div>
 
 <div align="center">
